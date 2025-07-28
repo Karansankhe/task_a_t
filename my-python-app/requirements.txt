@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+numpy
+python-dotenv
+sentence-transformers
+langchain
+google-generativeai
+sarvamai
