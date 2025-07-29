@@ -6,4 +6,4 @@ sentence-transformers
 langchain
 google-generativeai
 sarvamai
-dotenv
+python-dotenv
