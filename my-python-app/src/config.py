@@ -4,8 +4,8 @@ from dotenv import load_dotenv
 class Config:
     def __init__(self):
         load_dotenv()
-        self.GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-        self.SARVAM_API_KEY = os.getenv("SARVAM_API_KEY")
+        self.GOOGLE_API_KEY = "AIzaSyCD_R-hjGCFRzHmxmz3robcnzQSpTJvIiY"
+        self.SARVAM_API_KEY = "sk_jkx0d789_D56zB2BQZt10UoW5cTyz418Z"
         self.validate_keys()
 
     def validate_keys(self):
